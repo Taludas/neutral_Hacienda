@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>在圍外</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>選擇一個政策。同時只能啟用一個政策。</Text>
+		</Text>
 	</ModOp>
 </ModOps>

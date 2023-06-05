@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>範囲外</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>法令を選択してください。法令は1つのにつき1つだけ有効にできます。</Text>
+		</Text>
 	</ModOp>
 </ModOps>

@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>Hors de portée</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Choisissez une politique. Il ne peut y avoir qu'une politique active.</Text>
+		</Text>
 	</ModOp>
 </ModOps>

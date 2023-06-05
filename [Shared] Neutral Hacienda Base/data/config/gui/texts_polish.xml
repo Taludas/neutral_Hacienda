@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>Zewnętrzny zasięg</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Wybierz dekret. Tylko jeden dekret może być aktywny.</Text>
+		</Text>
 	</ModOp>
 </ModOps>

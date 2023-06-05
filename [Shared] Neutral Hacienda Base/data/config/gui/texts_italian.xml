@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>Portata esterna dell'edificio</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Seleziona una Politica. È possibile attivare una sola Politica.</Text>
+		</Text>
 	</ModOp>
 </ModOps>

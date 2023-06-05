@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>Exterior al radio</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Elige una política. Solo puede haber una activa.</Text>
+		</Text>
 	</ModOp>
 </ModOps>

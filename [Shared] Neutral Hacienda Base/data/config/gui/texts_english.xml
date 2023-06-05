@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>Outside Range</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Select a Policy. Only one Policy can be active.</Text>
+		</Text>
 	</ModOp>
 </ModOps>

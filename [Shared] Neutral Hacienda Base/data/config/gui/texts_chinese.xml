@@ -28,5 +28,9 @@
 			<GUID>24783</GUID>
 			<Text>在范围外</Text>
 		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>选择一个政策。每个同时只能启用一个政策。</Text>
+		</Text>
 	</ModOp>
 </ModOps>
