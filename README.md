@@ -7,8 +7,4 @@ To use it, just place this mod as a submod of your main mod. Important: Only inc
 
 You are now able to create a Hacienda clone with a clean and neutral Interface.
 
-If you find any issues or have some ideas to further inprove the project, just contact me.
 
-
-Big Thanks to Taludas who helped me along the way.
-Have Fun!
